@@ -43,3 +43,4 @@ they're small, and leaving them keeps merged PRs readable.
 ## Contents
 
 - `pr/623/` — consistent status pages on Linux, Windows and Android (#622).
+- `pr/624/` — consistent status screens on macOS and iOS (#622).
